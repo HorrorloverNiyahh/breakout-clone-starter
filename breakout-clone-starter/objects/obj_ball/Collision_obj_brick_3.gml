@@ -4,7 +4,7 @@
 vspeed = -vspeed;
 
 // Tell the other instance (the brick) to destroy itself.
-instance_destory(other);
+instance_destroy(other);
 
 
 // Add one point to the score.
